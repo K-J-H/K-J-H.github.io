@@ -17,6 +17,22 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+# -------------------VIM note---------------------
+- CHANGING MODE: insert: i; normal: esc
+- MOVING CURSER: h j k l; b: beginning of the word; e: end of the word; w: the start of the next word;
+- numbers before operation: number i text esc; number move
+- find a character: f char; number f char
+- beginning of the line: 0; end of the line: $
+- Goto line: gg/ G/ linenumbers G
+- Search: /text n next N forword
+- Insert new line: o next to the current line; O above the current line;
+- delete x/X;
+- Replace letter under the cursor: r char;
+- Delete word, Paste. d (number) w/e/b
+- Repeat commond. .
+- Visual mode: v->movement->operation.
+- :w q ! undo:u redo:ctrl r
+# -------------------VIM note end-----------------
 
 1. Numbered
 2. List
