@@ -17,6 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+
 # -------------------VIM note---------------------
 - CHANGING MODE: insert: i; normal: esc
 - MOVING CURSER: h j k l; b: beginning of the word; e: end of the word; w: the start of the next word;
